@@ -1,1 +1,0 @@
-# siste-sttudio-as-test
