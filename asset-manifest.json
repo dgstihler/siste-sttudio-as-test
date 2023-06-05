@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8b4ca48e.css",
-    "main.js": "./static/js/main.efb2b106.js",
+    "main.js": "./static/js/main.3359dc38.js",
     "static/media/logo.svg": "./static/media/logo.fe7a8cf87973d1f54a827b590a09d083.svg",
     "static/media/league-gothic.regular.ttf": "./static/media/league-gothic.regular.6ad81aafbe4bc97c8d4d.ttf",
     "static/media/Kirvy-Regular.otf": "./static/media/Kirvy-Regular.5372a1e776d8322e1662.otf",
@@ -14,10 +14,10 @@
     "static/media/arrow-next.svg": "./static/media/arrow-next.30b6a55741309fd4c4bee2948ba8683c.svg",
     "static/media/arrow-prev.svg": "./static/media/arrow-prev.89fca8785f6ab7a4ec12b6e346de9262.svg",
     "main.8b4ca48e.css.map": "./static/css/main.8b4ca48e.css.map",
-    "main.efb2b106.js.map": "./static/js/main.efb2b106.js.map"
+    "main.3359dc38.js.map": "./static/js/main.3359dc38.js.map"
   },
   "entrypoints": [
     "static/css/main.8b4ca48e.css",
-    "static/js/main.efb2b106.js"
+    "static/js/main.3359dc38.js"
   ]
 }
